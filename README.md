@@ -1,4 +1,4 @@
-# Installing youtube-viewer on Ubuntu 18.04
+# Installing youtube-viewer and gtk-youtube-viewer on Ubuntu 18.04
 
 ## Dependencies
 youtube-viewer has some packages that are required for it to work so install these things:
